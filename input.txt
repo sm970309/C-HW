@@ -1,0 +1,26 @@
+a
+p
+a
+a
+p
+a
+i s Bill 3 2
+a
+i u Chris 2 2
+a
+p
+a
+a
+o 101
+a
+p
+a
+i r David 3 3
+a
+p
+s 501 50
+a
+i s Mathias 1 0
+a
+p
+q

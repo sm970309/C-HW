@@ -1,0 +1,98 @@
+Time: 12:00
+Hotel opened.
+
+Time: 13:00
+Standard Room 101 Empty
+Standard Room 102 Empty
+Standard Room 103 Empty
+Standard Room 201 Empty
+Standard Room 202 Empty
+Suite Room 301 Empty
+Suite Room 302 Empty
+Standard Room 401 Empty
+Standard Room 402 Empty
+Royal Room 501 Empty
+
+Time: 14:00
+
+Time: 15:00
+Standard Room 101 Empty
+Standard Room 102 Empty
+Standard Room 103 Empty
+Standard Room 201 Empty
+Standard Room 202 Empty
+Suite Room 301 Empty
+Suite Room 302 Empty
+Standard Room 401 Empty
+Standard Room 402 Empty
+Royal Room 501 Empty
+
+Time: 16:00
+Checked in to Standard Room 101 Occupied(Bill and 2 others)
+
+Time: 17:00
+Checked in to Suite Room 301 Occupied(Chris and 1 others)
+
+Time: 18:00
+Standard Room 101 Occupied(Bill and 2 others) $190 expected
+Standard Room 102 Empty
+Standard Room 103 Empty
+Standard Room 201 Empty
+Standard Room 202 Empty
+Suite Room 301 Occupied(Chris and 1 others) $300 expected
+Suite Room 302 Empty
+Standard Room 401 Empty
+Standard Room 402 Empty
+Royal Room 501 Empty
+
+Time: 19:00
+
+Time: 20:00
+Standard Room 101 Occupied(Bill and 2 others) checked out.
+$190 added to the total income
+
+Time: 21:00
+Standard Room 101 Preparing(3 hours left) 
+Standard Room 102 Empty
+Standard Room 103 Empty
+Standard Room 201 Empty
+Standard Room 202 Empty
+Suite Room 301 Occupied(Chris and 1 others) $300 expected
+Suite Room 302 Empty
+Standard Room 401 Empty
+Standard Room 402 Empty
+Royal Room 501 Empty
+
+Time: 22:00
+Checked in to Royal Room 501 Occupied(David and 2 others)
+
+Time: 23:00
+Standard Room 101 Preparing(1 hours left) 
+Standard Room 102 Empty
+Standard Room 103 Empty
+Standard Room 201 Empty
+Standard Room 202 Empty
+Suite Room 301 Occupied(Chris and 1 others) $300 expected
+Suite Room 302 Empty
+Standard Room 401 Empty
+Standard Room 402 Empty
+Royal Room 501 Occupied(David and 2 others) $580 expected
+Royal Room 501 Occupied(David and 2 others) called room service($50)
+
+Time: 00:00
+Checked in to Standard Room 101 Occupied(Mathias)
+
+Time: 01:00
+Standard Room 101 Occupied(Mathias) $100 expected
+Standard Room 102 Empty
+Standard Room 103 Empty
+Standard Room 201 Empty
+Standard Room 202 Empty
+Suite Room 301 Occupied(Chris and 1 others) $300 expected
+Suite Room 302 Empty
+Standard Room 401 Empty
+Standard Room 402 Empty
+Royal Room 501 Occupied(David and 2 others) $630 expected
+
+Hotel closed.
+Total income is $190
