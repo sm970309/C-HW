@@ -1,9 +1,0 @@
-﻿  Hotel.cpp
-C:\Users\sm970\source\repos\201701608고성민_Project2\201701608고성민_Project2\Hotel.cpp(162,43): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Room.cpp
-  Royal.cpp
-  Standard.cpp
-  Suite.cpp
-  코드를 생성하고 있습니다...
-C:\Users\sm970\source\repos\201701608고성민_Project2\201701608고성민_Project2\Room.h(39): warning C4715: 'Room::getState': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  201701608고성민_Project2.vcxproj -> C:\Users\sm970\source\repos\201701608고성민_Project2\Debug\201701608고성민_Project2.exe
